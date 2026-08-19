@@ -1,23 +1,35 @@
-<div align="center">
+<p align="center">
+  <img src="./logo.svg" width="300px" alt="QPerú Logo">
+</p>
 
-<img src="./assets/logo.svg" width="300px" alt="QPerú Logo">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1b1e1f&height=180&section=header&text=QPer%C3%BA&fontSize=32&fontColor=D10A11&fontFamily=Fira%20Code&animation=fadeIn" alt="header"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1b1e1f&height=180&section=header&text=QPer%C3%BA&fontSize=32&fontColor=D10A11&fontFamily=Fira%20Code&animation=fadeIn" alt="header"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Where+Ancient+Patterns+Shape+the+Quantum+Future" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Where+Ancient+Patterns+Shape+the+Quantum+Future" alt="Typing SVG" />
-</a>
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
+<p align="center">
+  <img src="./status.svg" width="100%" alt="System status animation">
+</p>
 
-<img src="./status.svg" width="100%" alt="System status animation">
-
+<p align="center">
 ˚　　　　✦　　　.　　. 🪐　 ˚　.　　　　 　　.　　　　　　 ✦　　　.　　˚　🌒　　　　. ✦ 　🌍
 　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.
+</p>
 
-<img src="./title-state-evolution.svg" alt="State Evolution And Reality Checks">
+<p align="center">
+  <img src="./title-state-evolution.svg" alt="State Evolution And Reality Checks">
+</p>
 
-<img src="./bloch.svg" width="70%" alt="Bloch sphere state evolution">
+<p align="center">
+  <img src="./bloch.svg" width="70%" alt="Bloch sphere state evolution">
+</p>
 
 Inspired by the timeless geometry of the Nazca Lines, **QPerú** is the Peruvian aspiring chapter of the global QWorld network, dedicated to advancing quantum education, research, and community development throughout Peru.
 
@@ -25,9 +37,11 @@ Founded by Peruvian students, researchers, educators, engineers, and technology 
 
 Just as the Nazca civilization created extraordinary geometric patterns that continue to inspire the world centuries later, QPerú believes that ᴛᴏᴅᴀʏ'ꜱ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴄᴀɴ ʙᴇᴄᴏᴍᴇ ᴛᴏᴍᴏʀʀᴏᴡ'ꜱ ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ʟᴇɢᴀᴄʏ.
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-<img src="./title-mission-vision.svg" alt="Our Mission & Vision">
+<p align="center">
+  <img src="./title-mission-vision.svg" alt="Our Mission & Vision">
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -44,27 +58,25 @@ Just as the Nazca civilization created extraordinary geometric patterns that con
 
 We aim to position Peru as an active contributor to the global quantum ecosystem by connecting local talent with worldwide opportunities in quantum computing, quantum information science, quantum communication, quantum optimization, quantum artificial intelligence, and quantum cybersecurity.
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-<img src="./title-what-we-do.svg" alt="What we do">
+<p align="center">
+  <img src="./title-what-we-do.svg" alt="What we do">
+</p>
 
 QPerú organizes and drives:
-
-<div align="left">
 
 * **Workshops & Training:** QBronze, QNickel, QSilver, specialized QWorld workshops, and certification-oriented training.
 * **Hands-on Learning:** Practical laboratories, quantum programming bootcamps, and study circles.
 * **Community & Research:** Quantum hackathons, QTalks, invited lectures, reading groups, research mentoring, and outreach activities for schools.
 
-</div>
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
-
-<img src="./title-collab-network.svg" alt="Collaboration Network">
+<p align="center">
+  <img src="./title-collab-network.svg" alt="Collaboration Network">
+</p>
 
 QPerú believes that quantum technologies can only flourish through deep institutional collaboration across three core pillars:
-
-<div align="left">
 
 <details>
 <summary><b>˙˖°🎓 ༘⋆ Universities & Academic Institutions</b></summary>
@@ -105,80 +117,82 @@ Collaborating globally with other QWorld QCousins on workshops, research initiat
 
 </details>
 
-</div>
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
-
-<img src="./title-why-nazca.svg" alt="Why Nazca?">
+<p align="center">
+  <img src="./title-why-nazca.svg" alt="Why Nazca?">
+</p>
 
 The Nazca Lines are one of humanity's greatest examples of large-scale information encoded into geometric patterns. Much like quantum circuits, they demonstrate that seemingly simple structures can encode profound meaning. For QPerú, *Nazca symbolizes:*
-
-<div align="left">
 
 * Knowledge preserved through generations
 * Precision, Geometry, and Information
 * Observation, Discovery, and Connection across time
 
-</div>
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
-
-<img src="./title-join-future.svg" alt="Join the Quantum Future">
+<p align="center">
+  <img src="./title-join-future.svg" alt="Join the Quantum Future">
+</p>
 
 Whether you are a student taking your first steps, an educator, a researcher, an engineer, an entrepreneur, or simply **Quantum Curious**, QPerú welcomes you. 𐦂𖨆𐀪𖠋𐀪𐀪
 
 *Education Without Barriers:* Open, inclusive, collaborative, and free whenever possible regardless of geographical location, economic background, or previous experience.
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-<img src="./title-featured-repos.svg" alt="Featured Repositories">
+<p align="center">
+  <img src="./title-featured-repos.svg" alt="Featured Repositories">
+</p>
 
 Here are some places where code actually compiled on the first try:
 
-<div align="left">
-
 * Very soon...
 
-</div>
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
+<p align="center">
+  <img src="./title-connect.svg" alt="Connect & Communities">
+</p>
 
-<img src="./title-connect.svg" alt="Connect & Communities">
+<p align="center">
+  <a href="https://qperu.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-QPer%C3%BA-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website">
+  </a>
+  <a href="https://whatsapp.com/channel/YOUR_CHANNEL_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://linkedin.com/company/qperu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-QPer%C3%BA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/QPeru" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-QPer%C3%BA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://qworld.lu" target="_blank">
+    <img src="https://img.shields.io/badge/QWorld-Global_Network-6929C4?style=for-the-badge&logo=quantcast&logoColor=white" alt="QWorld">
+  </a>
+  <a href="mailto:tu-correo@example.com">
+    <img src="https://img.shields.io/badge/Email-QPer%C3%BA-961d1e?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<a href="https://qperu.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Website-QPer%C3%BA-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website">
-</a>
-<a href="https://whatsapp.com/channel/YOUR_CHANNEL_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-<a href="https://linkedin.com/company/qperu" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-QPer%C3%BA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/QPeru" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-QPer%C3%BA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://qworld.lu" target="_blank">
-  <img src="https://img.shields.io/badge/QWorld-Global_Network-6929C4?style=for-the-badge&logo=quantcast&logoColor=white" alt="QWorld">
-</a>
-<a href="mailto:tu-correo@example.com">
-  <img src="https://img.shields.io/badge/Email-QPer%C3%BA-961d1e?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
-</a>
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
+<p align="center">
+  <img src="./title-tech-stack.svg" alt="Quantum & Tech Stack">
+</p>
 
-<img src="./title-tech-stack.svg" alt="Quantum & Tech Stack">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit">
+  <img src="https://img.shields.io/badge/PennyLane-FF6F61?style=flat-square&logo=pennylane&logoColor=white" alt="PennyLane">
+  <img src="https://img.shields.io/badge/Cirq-4285F4?style=flat-square&logo=google&logoColor=white" alt="Cirq">
+  <img src="https://img.shields.io/badge/D--Wave-005571?style=flat-square&logo=dwave&logoColor=white" alt="D-Wave">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit">
-<img src="https://img.shields.io/badge/PennyLane-FF6F61?style=flat-square&logo=pennylane&logoColor=white" alt="PennyLane">
-<img src="https://img.shields.io/badge/Cirq-4285F4?style=flat-square&logo=google&logoColor=white" alt="Cirq">
-<img src="https://img.shields.io/badge/D--Wave-005571?style=flat-square&logo=dwave&logoColor=white" alt="D-Wave">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<p align="center">⋆──────────────────────────────────────⃝─⃝⃝⃝⃝──────────────────────────────────────⋆</p>
 
-⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
-
-**⟨ψ| End of Transmission. May your circuits stay coherent and your terminal never freeze. |ψ⟩**
-
-</div>
+<p align="center"><b>⟨ψ| End of Transmission. May your circuits stay coherent and your terminal never freeze. |ψ⟩</b></p>
