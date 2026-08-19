@@ -2,8 +2,6 @@
 
 <img src="./logo.svg" width="300px" alt="QPerú Logo">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1b1e1f&height=180&section=header&text=QPer%C3%BA&fontSize=32&fontColor=D10A11&fontFamily=Fira%20Code&animation=fadeIn" alt="header"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Where+Ancient+Patterns+Shape+the+Quantum+Future" alt="Typing SVG" />
 </a>
