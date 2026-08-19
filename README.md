@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./logo.svg" width="300px" alt="QPerú Logo">
+<img src="./assets/logo.svg" width="300px" alt="QPerú Logo">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1b1e1f&height=180&section=header&text=QPer%C3%BA&fontSize=32&fontColor=D10A11&fontFamily=Fira%20Code&animation=fadeIn" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Where+Ancient+Patterns+Shape+the+Quantum+Future" alt="Typing SVG" />
@@ -13,7 +15,7 @@
 ˚　　　　✦　　　.　　. 🪐　 ˚　.　　　　 　　.　　　　　　 ✦　　　.　　˚　🌒　　　　. ✦ 　🌍
 　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.
 
-### |State Evolution And Reality Checks⟩
+<img src="./title-state-evolution.svg" alt="State Evolution And Reality Checks">
 
 <img src="./bloch.svg" width="70%" alt="Bloch sphere state evolution">
 
@@ -25,7 +27,7 @@ Just as the Nazca civilization created extraordinary geometric patterns that con
 
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-### ོ༘₊⁺☀︎₊⁺⋆.˚ Our Mission & Vision ☀︎₊⁺⋆.˚
+<img src="./title-mission-vision.svg" alt="Our Mission & Vision">
 
 <table align="center" width="100%">
   <tr>
@@ -44,19 +46,25 @@ We aim to position Peru as an active contributor to the global quantum ecosystem
 
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-### ⋆. ⌬ ˚ What we do: ⚛ 🧪 𒉭 ⋆
+<img src="./title-what-we-do.svg" alt="What we do">
 
 QPerú organizes and drives:
+
+<div align="left">
 
 * **Workshops & Training:** QBronze, QNickel, QSilver, specialized QWorld workshops, and certification-oriented training.
 * **Hands-on Learning:** Practical laboratories, quantum programming bootcamps, and study circles.
 * **Community & Research:** Quantum hackathons, QTalks, invited lectures, reading groups, research mentoring, and outreach activities for schools.
 
+</div>
+
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-### ✈︎ Collaboration Network 🗺
+<img src="./title-collab-network.svg" alt="Collaboration Network">
 
 QPerú believes that quantum technologies can only flourish through deep institutional collaboration across three core pillars:
+
+<div align="left">
 
 <details>
 <summary><b>˙˖°🎓 ༘⋆ Universities & Academic Institutions</b></summary>
@@ -97,19 +105,25 @@ Collaborating globally with other QWorld QCousins on workshops, research initiat
 
 </details>
 
+</div>
+
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-### 🇵🇪 Why Nazca?
+<img src="./title-why-nazca.svg" alt="Why Nazca?">
 
 The Nazca Lines are one of humanity's greatest examples of large-scale information encoded into geometric patterns. Much like quantum circuits, they demonstrate that seemingly simple structures can encode profound meaning. For QPerú, *Nazca symbolizes:*
+
+<div align="left">
 
 * Knowledge preserved through generations
 * Precision, Geometry, and Information
 * Observation, Discovery, and Connection across time
 
+</div>
+
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-### ╰┈➤ Join the Quantum Future ✔
+<img src="./title-join-future.svg" alt="Join the Quantum Future">
 
 Whether you are a student taking your first steps, an educator, a researcher, an engineer, an entrepreneur, or simply **Quantum Curious**, QPerú welcomes you. 𐦂𖨆𐀪𖠋𐀪𐀪
 
@@ -117,15 +131,19 @@ Whether you are a student taking your first steps, an educator, a researcher, an
 
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-### ᯓ✮ Featured Repositories
+<img src="./title-featured-repos.svg" alt="Featured Repositories">
 
 Here are some places where code actually compiled on the first try:
 
+<div align="left">
+
 * Very soon...
+
+</div>
 
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-### ⇄ Connect & Communities ⫘
+<img src="./title-connect.svg" alt="Connect & Communities">
 
 <a href="https://qperu.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Website-QPer%C3%BA-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website">
@@ -148,7 +166,7 @@ Here are some places where code actually compiled on the first try:
 
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-### ⋆.ೃ࿔⛈ Quantum & Tech Stack  ݁ ˖*༄
+<img src="./title-tech-stack.svg" alt="Quantum & Tech Stack">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit">
