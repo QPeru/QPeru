@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.svg" width="300px" alt="QPerú Logo">
+<img src="./logo.svg" width="300px" alt="QPerú Logo">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1b1e1f&height=180&section=header&text=QPer%C3%BA&fontSize=32&fontColor=D10A11&fontFamily=Fira%20Code&animation=fadeIn" alt="header"/>
 
