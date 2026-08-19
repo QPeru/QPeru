@@ -10,14 +10,14 @@
 
 ⋆────────────────⃝─⃝⃝⃝⃝────────────────────────────────⋆
 
-<img src="./assets/status.svg" width="100%" alt="System status animation">
+<img src="./status.svg" width="100%" alt="System status animation">
 
 ˚　　　　✦　　　.　　. 🪐　 ˚　.　　　　 　　.　　　　　　 ✦　　　.　　˚　🌒　　　　. ✦ 　🌍
 　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.
 
 ### |State Evolution And Reality Checks⟩
 
-<img src="./assets/bloch.svg" width="70%" alt="Bloch sphere state evolution">
+<img src="./bloch.svg" width="70%" alt="Bloch sphere state evolution">
 
 Inspired by the timeless geometry of the Nazca Lines, **QPerú** is the Peruvian aspiring chapter of the global QWorld network, dedicated to advancing quantum education, research, and community development throughout Peru.
 
