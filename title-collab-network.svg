@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 364 60" width="364" height="60">
+  <style>
+    @keyframes floatText {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-6px); }
+      100% { transform: translateY(0px); }
+    }
+    .floating-title {
+      animation: floatText 3.5s ease-in-out infinite;
+      transform-origin: center;
+    }
+  </style>
+  <text x="50%" y="38" text-anchor="middle" class="floating-title"
+        font-family="'Fira Code', monospace" font-weight="600" font-size="20" fill="#FFFFFF">✈︎ Collaboration Network 🗺</text>
+</svg>
