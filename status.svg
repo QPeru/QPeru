@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220">
+  <style>
+    .bg { fill: #1b1e1f; }
+    .track { stroke: #30363d; stroke-width: 4; stroke-dasharray: 8 8; fill: none; }
+    .text-title { font-family: monospace; font-size: 16px; fill: #c2a46e; font-weight: bold; }
+    .text-sub { font-family: monospace; font-size: 12px; fill: #ffffff; }
+    @keyframes moveQubit {
+      0% { transform: translate(100px, 150px); fill: #961d1e; }
+      50% { transform: translate(400px, 120px); fill: #d4af37; }
+      100% { transform: translate(700px, 150px); fill: #961d1e; }
+    }
+    @keyframes pulse {
+      0% { r: 12px; opacity: 0.8; }
+      50% { r: 20px; opacity: 0.2; }
+      100% { r: 12px; opacity: 0.8; }
+    }
+    .qubit { animation: moveQubit 8s infinite ease-in-out alternate; }
+    .pulse-ring { animation: pulse 2s infinite ease-out; transform-origin: center; fill: #d4af37; }
+  </style>
+  <rect width="800" height="220" rx="10" class="bg" />
+  <text x="40" y="45" class="text-title">System Status: Attempting to move a Qubit...</text>
+  <text x="40" y="70" class="text-sub">Warning: High risk of decoherence and existential dread.</text>
+  <path d="M 100 150 Q 250 90, 400 150 T 700 150" class="track" />
+  <g class="qubit">
+    <circle cx="0" cy="0" r="15" class="pulse-ring" />
+    <circle cx="0" cy="0" r="8" />
+    <text x="-12" y="-20" class="text-sub" font-size="10px">|ψ⟩</text>
+  </g>
+</svg>
